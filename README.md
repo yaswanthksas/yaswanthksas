@@ -23,7 +23,7 @@ I enjoy building efficient, low-power designs and working close to hardware.
 - IoT & Smart Metering Solutions - STM32 Microcontrollers  
 - LoRaWAN stack & Wireless Communication  
 - Sensor Integration & Low Power Design  
-
+- Tensorflowlite on microcontrollers
 ---
 
 ## 📫 Contact
