@@ -29,7 +29,7 @@ I enjoy building efficient, low-power designs and working close to hardware.
 ## 📫 Contact
 
 📧 **Email:** yaswanthkuna03072002@gmail.com  
-
+🔗 **LinkedIn:** https://linkedin.com/in/yaswanthkuna
 ---
 
 
