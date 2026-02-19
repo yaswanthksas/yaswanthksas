@@ -35,11 +35,7 @@ I enjoy building efficient, low-power designs and working close to hardware.
 
 ---
 
-## 📊 GitHub Stats
 
-![Yaswanth's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaswanthksas&show_icons=true)
-
----
 
 ##### 🌍 Open Source Contributions
 
@@ -49,6 +45,11 @@ I enjoy building efficient, low-power designs and working close to hardware.
 ###### ✅ 2. STM32 X-CUBE-AI Package
 [Submitted bug report to stm32 community.](https://community.st.com/t5/stm32cubeide-mcus/issues-with-x-cube-ai-configuration-and-code-generation-in/m-p/863948#M40014)
 
+---
+
+## 📊 GitHub Stats
+
+![Yaswanth's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaswanthksas&show_icons=true)
 
 
 
