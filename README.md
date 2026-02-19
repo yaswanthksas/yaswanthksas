@@ -41,12 +41,12 @@ I enjoy building efficient, low-power designs and working close to hardware.
 
 ---
 
-### 🌍 Open Source Contributions
+##### 🌍 Open Source Contributions
 
-#### ✅ 1. FreeRTOS Porting
+###### ✅ 1. FreeRTOS Porting
  [Contributed to RTOS portability and platform support.](https://github.com/FreeRTOS/FreeRTOS-Kernel/pull/1369)
 
-#### ✅ 2. STM32 X-CUBE-AI Package
+###### ✅ 2. STM32 X-CUBE-AI Package
 [Submitted bug report to stm32 community.](https://community.st.com/t5/stm32cubeide-mcus/issues-with-x-cube-ai-configuration-and-code-generation-in/m-p/863948#M40014)
 
 
