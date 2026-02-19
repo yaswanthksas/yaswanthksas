@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a firmware engineer specializing in embedded systems and firmware domain.  
+I am a firmware engineer specializing in embedded domain.  
 I enjoy building efficient, low-power designs and working close to hardware.
 
 ---
