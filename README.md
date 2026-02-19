@@ -37,13 +37,13 @@ I enjoy building efficient, low-power designs and working close to hardware.
 
 ## 📊 GitHub Stats
 
-![Yaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Yaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaswanthksas&show_icons=true)
 
 ---
 
 ##### 🌍 Open Source Contributions
 
-###### ✅ 1. FreeRTOS Porting
+###### ✅ 1. FreeRTOS Porting (open_source_freertos_port : repo)
  [Contributed to RTOS portability and platform support.](https://github.com/FreeRTOS/FreeRTOS-Kernel/pull/1369)
 
 ###### ✅ 2. STM32 X-CUBE-AI Package
