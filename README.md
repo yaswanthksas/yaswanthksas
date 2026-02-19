@@ -37,7 +37,7 @@ I enjoy building efficient, low-power designs and working close to hardware.
 
 ## 📊 GitHub Stats
 
-![Yaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaswanthksas&show_icons=true)
+![Yaswanth's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaswanthksas&show_icons=true)
 
 ---
 
