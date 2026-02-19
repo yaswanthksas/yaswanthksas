@@ -11,21 +11,18 @@
 I am a firmware engineer specializing in embedded systems and firmware domain.  
 I enjoy building efficient, low-power designs and working close to hardware.
 
-- 🔹 Embedded C & Firmware Development  
-- 🔹 RTOS & System Optimization  
-- 🔹 STM32 Microcontrollers  
-- 🔹 LoRaWAN stack & Wireless Communication  
-- 🔹 Sensor Integration & Low Power Design  
-
 ---
 
 ## 🚀 Technical Interests
 
+- Embedded C & Firmware Development 
 - Real-Time Operating Systems (FreeRTOS)
-- Embedded Linux & MCU Systems
-- IoT & Smart Metering Solutions
+- Embedded Linux
 - Low Power Firmware Design
 - Wireless Communication Protocols
+- IoT & Smart Metering Solutions - STM32 Microcontrollers  
+- LoRaWAN stack & Wireless Communication  
+- Sensor Integration & Low Power Design  
 
 ---
 
