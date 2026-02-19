@@ -34,7 +34,7 @@ I enjoy building efficient, low-power designs and working close to hardware.
 
 
 
-##### 🌍 Open Source Contributions
+## 🌍 Open Source Contributions
 
 ###### ✅ 1. FreeRTOS Porting (open_source_freertos_port : repo)
  [Contributed to RTOS portability and platform support.](https://github.com/FreeRTOS/FreeRTOS-Kernel/pull/1369)
